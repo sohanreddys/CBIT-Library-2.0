@@ -1,0 +1,70 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+header {
+    background-color:blue;
+    color: white;
+    padding: 15px 20px;
+    position: fixed;
+    width: 100%;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+}
+
+.t1 {
+    text-align: center; 
+    top: 50px;
+    padding: 250px 20px;
+    background-color: grey;
+    color: white;
+}
+
+.t1 h1 {
+    font-size: 32px;
+}
+
+.t1 p {
+    font-size: 16px;
+}
+
+.button1 {
+    background-color: yellow;
+    color: blue;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.resources {
+    padding: 40px 20px;
+}
+
+.resource-category {
+    background-color: white;
+    margin: 20px auto;
+    padding: 15px;
+    width: 90%;
+    max-width: 300px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
